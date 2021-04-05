@@ -1,2 +1,0 @@
-# ColeKimReactWebsite
-React Website Portfolio
