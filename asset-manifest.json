@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/ColeKimReactWebsite/static/css/main.922a1863.chunk.css",
+    "main.js": "/ColeKimReactWebsite/static/js/main.8fd4e51d.chunk.js",
+    "main.js.map": "/ColeKimReactWebsite/static/js/main.8fd4e51d.chunk.js.map",
+    "runtime-main.js": "/ColeKimReactWebsite/static/js/runtime-main.567e4766.js",
+    "runtime-main.js.map": "/ColeKimReactWebsite/static/js/runtime-main.567e4766.js.map",
+    "static/js/2.d6705638.chunk.js": "/ColeKimReactWebsite/static/js/2.d6705638.chunk.js",
+    "static/js/2.d6705638.chunk.js.map": "/ColeKimReactWebsite/static/js/2.d6705638.chunk.js.map",
+    "index.html": "/ColeKimReactWebsite/index.html",
+    "static/css/main.922a1863.chunk.css.map": "/ColeKimReactWebsite/static/css/main.922a1863.chunk.css.map",
+    "static/js/2.d6705638.chunk.js.LICENSE.txt": "/ColeKimReactWebsite/static/js/2.d6705638.chunk.js.LICENSE.txt",
+    "static/media/Flixter_v2_GIF.48c318c4.gif": "/ColeKimReactWebsite/static/media/Flixter_v2_GIF.48c318c4.gif",
+    "static/media/SimpleTweet_v1.28499a2f.gif": "/ColeKimReactWebsite/static/media/SimpleTweet_v1.28499a2f.gif",
+    "static/media/SimpleTweet_v2.f203ff7f.gif": "/ColeKimReactWebsite/static/media/SimpleTweet_v2.f203ff7f.gif",
+    "static/media/codepathandroidbanner.89ebc458.png": "/ColeKimReactWebsite/static/media/codepathandroidbanner.89ebc458.png",
+    "static/media/dl-sheet-music-stock.jpg": "/ColeKimReactWebsite/static/media/dl-sheet-music-stock.feefec50.jpg",
+    "static/media/icon1.svg": "/ColeKimReactWebsite/static/media/icon1.753f2580.svg",
+    "static/media/icon2.0b98167f.svg": "/ColeKimReactWebsite/static/media/icon2.0b98167f.svg",
+    "static/media/icon3.d7fcd9e7.svg": "/ColeKimReactWebsite/static/media/icon3.d7fcd9e7.svg",
+    "static/media/indoor-drumline-stock.jpg": "/ColeKimReactWebsite/static/media/indoor-drumline-stock.7fdaab1e.jpg",
+    "static/media/meinthesnow.jpg": "/ColeKimReactWebsite/static/media/meinthesnow.90374a95.jpg",
+    "static/media/video.eafbfbd7.mp4": "/ColeKimReactWebsite/static/media/video.eafbfbd7.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.567e4766.js",
+    "static/js/2.d6705638.chunk.js",
+    "static/css/main.922a1863.chunk.css",
+    "static/js/main.8fd4e51d.chunk.js"
+  ]
+}
